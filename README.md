@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Thaw Maung Oo (Jake)</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Data Analyst | Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thawmaungoo&label=Profile%20views&color=0e75b6&style=flat" alt="thawmaungoo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jake2292023" target="blank"><img src="https://img.shields.io/twitter/follow/jake2292023?logo=twitter&style=for-the-badge" alt="jake2292023" /></a> </p>
 
-- 🔭 I’m currently working on [NewWayMM](newwaymm.com)
-
-- 🌱 I’m currently learning **Laravel, Tailwind**
-
-- 💬 Ask me about **Tailwind, Laravel and React**
+- 🔭 I’m currently working on [MPT](https://mpt.com.mm/en/)
 
 - 📫 How to reach me **thawmaungoo@gmail.com**
 
-- ⚡ Fun fact **I think I'm a outgoing, tempremental and modest**
+- ⚡ Fun fact **I think I'm an outgoing, temperamental, and modest**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
